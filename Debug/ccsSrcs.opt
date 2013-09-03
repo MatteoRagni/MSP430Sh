@@ -1,0 +1,1 @@
+"../adc.c" "../help.c" "../isr_hdl.c" "../main.c" "../parser.c" "../timer.c" "../uart.c" 
